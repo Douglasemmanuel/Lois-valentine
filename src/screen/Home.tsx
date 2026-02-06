@@ -39,7 +39,7 @@ const Home:React.FC = () => {
     }
     return result;
   };
-const myresume = 'https://douglas-portfoilo.vercel.app/Apology.pdf'
+const myresume = 'https://will-you-be-my-val-my-pretty-lady-l.vercel.app/Apology.pdf'
     const downloadFileAtURL = (url:any) =>{
         const fileName = url.split("/").pop();
         const aTag = document.createElement("a");
